@@ -1,5 +1,1 @@
-return{
-"Hello",
-"ChingChong",
-"Uricot"
-}
+"Hello","ChingChong","Uricot"
