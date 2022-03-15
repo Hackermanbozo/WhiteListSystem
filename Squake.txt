@@ -1,0 +1,5 @@
+return{
+"Hello",
+"ChingChong",
+"Uricot"
+}
